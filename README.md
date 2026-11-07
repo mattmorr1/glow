@@ -20,7 +20,7 @@ It only works on MacBook Pro models with the illuminated logo.
 ## Install
 
 1. Download `Lid-Glow-*.zip` from
-   [Releases](https://github.com/mattmorr1/applelogo/releases/latest).
+   [Releases](https://github.com/mattmorr1/glow/releases/latest).
 2. Unzip it and move **Lid Glow** to Applications.
 3. Open it. The glowing-lid icon appears in the menu bar.
 
